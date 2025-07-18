@@ -26,8 +26,15 @@ Track your daily tasks with ease — add, delete, and mark todos as completed.
 
 ## 🧪 Getting Started
 
-### 1. Clone the Repository
-
-```bash
+# Clone the repository
 git clone https://github.com/NIHAL55780/react-todo-app.git
+
+# Navigate into the project directory
 cd react-todo-app
+
+# Install all dependencies
+npm install
+
+# Start the development server
+npm start
+
