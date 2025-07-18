@@ -1,2 +1,33 @@
-# react-todo-app
-A simple and elegant Todo List app built with React, designed to help you stay organized and productive. This app allows you to add, view, and delete your daily tasks, with persistent storage using your browser's localStorage. It also includes basic routing using React Router.
+# ✅ React Todo App
+
+A simple, modern, and responsive Todo List app built with React.  
+Track your daily tasks with ease — add, delete, and mark todos as completed.
+
+---
+
+## 🚀 Features
+
+- ➕ Add new tasks
+- ✅ Mark tasks as complete/incomplete
+- 🗑️ Delete tasks
+- 📱 Fully responsive UI
+- 🧠 Clean state management using React Hooks
+- 🎨 Styled with CSS
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, HTML, CSS
+- **State Management**: useState Hook
+- **Package Manager**: npm
+
+---
+
+## 🧪 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/NIHAL55780/react-todo-app.git
+cd react-todo-app
